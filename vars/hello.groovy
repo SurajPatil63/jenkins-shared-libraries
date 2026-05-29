@@ -1,3 +1,3 @@
 def call(){
-  echo "hello doston"
+  echo "hello doston, video pasand arahi ho to subscribe kardo"
 }
